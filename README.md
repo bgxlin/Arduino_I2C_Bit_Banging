@@ -1,4 +1,4 @@
-# Arduino_Bit_Banging_AT24C32
+# Arduino_I2C_Bit_Banging
 Read/Write AT24C32 EEPROM via software I2C.
 
  * The memory chip tested is part of RTC3231, a real time clock module based on DS3231.
